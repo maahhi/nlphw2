@@ -1,0 +1,514 @@
+1|G F Ds C BoG AoFs GoG F DsoC D CoDs 
+-1|EoG AoEoG DoFs AoDoFs FsoA EoG CsoE DoD D GoB 
+1|DsoG Fs DoG CoA AsoD AoG Fs AsoG CoA FsoC D GoDs A FsoD C GoAs Ds D Ds C DoG Ds FoGs G GsoF Ds F D DsoA F GoAs A AsoG F G Ds FoB G GsoC G FoD DsoDs DoF 
+-1|AoC 
+1|C B C CoDs BoD CoC As GoGs G GsoF CoFoGs B CoDsoG DoDoF GoDs CoGsoD B CoGoDs DoFoF FoGoB G GsoFoC Ds FoD GoDoB F DsoGoC C BoG AoFs GoG F DsoBoD D CoCoDs D DsoC DoB CoC As GsoGoE G FoGsoF As GsoF GoE FoF Ds DoAoC C AsoAsoD C DoAs CoA AsoAs Gs GoFoD F DsoGoDs Gs GoDs FoD DsoDs Cs CoGoAs As GsoGsoC 
+-1|GoBoD AsoCs BoBoD AsoCs DoBoD AsoCs GoBoD G CoE GsoB DoAoC D BoD FsoA GoGoB G BoG DoA GoGoB FsoAs BoGoB FsoAs DsoGoB FsoAs EoGoB Fs GoFsoA 
+1|GoB FsoA GoG F CoDs D DsoC CoGoDs Fs AsoGoD AoAoC DoAs DsoGoA Fs DoGoAs CoAoC DoCoFs D CoDsoG As CoA DoDoFs C GoAsoG AsoD AoC AsoD D DoE Fs DsoG A CoAsoE AsoD CoE E EoF G FoA As DoCoFs CoE DoFs Fs FsoG A GoAs 
+-1|Fs E D GoAoC GoB CoCoE 
+1|DsoG DoF DsoG G AoG B CoGs D DsoFoA DsoG FoA A AsoA C DoAs Ds FoGoB FoA GoB B CoB D DsoC F DsoC DoB CoC As EoGsoG G FoFoGs 
+-1|AoC DoGoB FsoA BoBoG CoA GoGoDoB CsoAs BoBoDoB CsoAs DoDoDoB CsoAs GoGoDoB FoF EoEoEoC BoGs CoA DsoDs DoDoDoB AoFs GoBoG G D 
+1|FoGsoC B DsoGoC DoFoD DsoG GsoDoC B GoDsoC FoFoD GoBoF G FoCoGs Ds FoD GoBoG F CoCoDs D DsoC DoB CoC As GsoEoG G FoFoGs As GsoF GoE FoF Ds DoCoA C AsoDoAs C DoAs CoA AsoAs Gs GoDoF F DsoDsoG Gs GoDs FoD DsoDs D CoAsoG As GsoC As CoGs AsoAs GsoC GoB FoC DsoGs DoF G FoD DsoDs DoF CoDs BoF AoD GoB 
+-1|G BoDoDoG AoDoCoFs GoDoBoG FsoDoAoA D FsoG 
+1|CoGsoF B CoGoDs DoFoD GoDs CoDoGs B CoDsoG DoF FoBoG G GsoCoF Ds DoF GoBoD F DsoBoGs CoG 
+-1|AoC DoGoB FsoA BoBoG CoA GoGoDoB CsoAs BoBoDoB CsoAs DoDoDoB CsoAs GoGoDoB FoF EoEoEoC BoGs CoA DsoDs DoDoDoB AoFs GoBoG G D 
+1|DsoCoA DoFoB D CoDsoC C GoF Ds GoBoD C CoCoC C B C EoG FoGs C B C FoGsoBoD FoG DsoC DoB DsoC FoGsoD BoDoF G Gs BoD G F GoCoE Fs Gs A Gs As B As Gs As C Cs 
+-1|Cs D GoB D DoG B GoD B CoA C DoFs A FsoD Fs BoG Fs DoG A GoB Cs FsoD Cs AoD E DoD C GoB As BoB C DsoB A EoG B CsoA G DoFs A GoE Fs G E AoCs A DoD 
+1|B A Cs B A Gs 
+-1|D Cs D GoB D DoG B GoD B CoA C DoFs A FsoD Fs BoG Fs DoG A GoB Cs FsoD Cs AoD E DoD C GoB As BoB C DsoB A EoG B CsoA G DoFs A GoE Fs G E AoCs A DoD 
+1|Fs 
+-1|BoG D Cs D DoE C A DoB CsoAs DoB EoC CoA AoFs BoD AsoCs BoD CoE AoC FsoA GoB FsoAs GoB AoC FsoA DoFs DoD EoCs FsoD GoB D BoG B BoD G CoE G EoC E AoA C DoFsoFs A AoD E CoF Fs GoCoA 
+1|Cs Ds E Cs Cs B B As As B BoD AoF AoFs Gs Gs 
+-1|BoG 
+1|F Ds F AsoG CoGs Cs Ds Fs GsoE Gs CsoFs E Ds 
+-1|GoB AoC 
+1|C 
+-1|G CoE GsoB DoAoC D BoD FsoA GoGoB G BoG DoA GoGoB FsoAs BoGoB FsoAs DsoGoB FsoAs EoGoB Fs GoFsoA 
+1|CsoCs E Fs BoGs CsoA Ds E Fs Gs CsoAs DsoB F Fs B FsoCsoB A GsoBoA Gs AoCsoGs Fs AoFs E FsoE Ds BoDs E GsoE AsoD BoD Cs FoCs Cs AsoFs Gs AsoCs CoDs CsoF DsoFs FoGs B AoCsoFs CsoE BoDoFs AoCs GsoB 
+-1|EoG AoEoG DoFs AoDoFs FsoA EoG CsoE DoD D D G BoDoDoG AoDoCoFs GoDoBoG FsoDoAoA D FsoG 
+1|A Gs 
+-1|Fs E D GoAoC GoB CoCoE 
+1|FsoFs A B EoCs FsoD Gs AoE Cs DsoFs FoGs FsoA B CsoGs CoFs CsoE DsoDs EoCs B AsoFs Fs EoC DsoCs CsoDs C CsoE Ds Cs CsoFs DoBoG E FsoAs B CsoFs FsoE GsoD AsoCs BoD Cs B BoE CsoAoFs D EoGs A BoE EoD FsoCs GsoB AoCs BoD AoCsoDsoFs GsoB GsoBoFoGs FsoA FsoAoFsoA FsoB FsoCs E E Ds DsoB E EoGs DoAs DoFsoB Cs CsoCsoF 
+-1|C 
+1|FsoAs FoGs FsoAs DsoC FoGsoCs FsoDs GsoF B CsoFsoFsoA EoCs FsoDoB CsoEoA BoDoGs 
+-1|Cs Ds A Cs C 
+1|A Gs 
+-1|As Gs G As Gs C As Ds 
+1|A B 
+-1|C Ds Gs As Ds E F As 
+1|D CsoE B AsoCs B BoD A AoFs Gs GsoB Fs EoCs BoE AoFs GsoGs FsoA Gs GsoB Fs FsoD F FoCs Gs FsoA Cs FsoAoFs Ds CsoGsoE DsoCs EoCs FsoB GoB EoAs FsoAs FsoB BoBoDs CsoAoF DoAoFs BoGs CsoGs Cs CsoF CoDs CsoGsoF EoAsoG DsoCoGs CsoCs CoDs GsoFs CsoGsoE EoGs AoCsoFs FsoE GsoDs 
+-1|C 
+1|E Ds 
+-1|Cs Ds A Cs C 
+1|Gs FsoFs GsoE AoE FsoDs BoDs E GsoE AsoFsoD BoGsoD AoCs FoCs Cs AsoFs Gs AsoCs CoDs CsoF DsoFs FoGs B AoFsoCs CsoE BoDoFs AoCs GsoB 
+-1|C 
+1|A Gs 
+-1|C 
+1|F 
+-1|Gs G F C Gs G F C Gs G F Ds 
+1|Ds F 
+-1|Ds 
+1|GsoB CsoB A FsoA EoGs DsoFs CsoE CsoE BoDs BoDs AoCs GsoB FsoA FsoA EoGs EoGs DoFs CsoE BoD BoD AoCs AoCs GsoB FsoA EoG EoG DoFs DoFs F BoFs A GsoGs Fs CsoFoA BoGs AoFs GsoE GsoE FsoDs FsoDs GsoE GsoEoGs FsoDoAs FsoDoB FoCs FoCs 
+-1|D C D F 
+1|FsoAs FoGs FsoAs DsoC GsoFoCs B AoCsoFs GsoFoB FsoFsoA AoCs DoB BoFsoA CsoCsoGs 
+-1|Ds 
+1|B CsoBoF As FsoAsoCsoFs Fs D B G Fs B As E Ds C B Fs F D Cs C Cs A Fs Gs 
+-1|F Gs C 
+1|A Gs A Gs A Gs A Gs A Gs A Gs A Gs A Gs A Gs A Gs A Gs A Gs Fs 
+-1|B 
+1|Gs Fs 
+-1|C D C As G 
+1|F AoFs Gs FsoA Cs DoB Gs CsoA C EoFs 
+-1|Gs G 
+1|Ds AoE Gs FoD E BoCs As GoB Fs F FsoAs DoB B Cs 
+-1|As 
+1|D Cs D 
+-1|Ds Ds 
+1|Cs D Cs 
+-1|C 
+1|D 
+-1|As Ds 
+1|D Cs D Cs 
+-1|Cs 
+1|Fs 
+-1|C 
+1|Cs D Cs D 
+-1|Cs Ds A Cs C 
+1|G 
+-1|As Gs G As Gs 
+1|D Cs D Cs 
+-1|Gs B As Gs Gs G 
+1|As 
+-1|B 
+1|B 
+-1|B B As As As Gs Gs Gs Fs 
+1|Fs Gs As B Cs Fs F A 
+-1|Ds E 
+1|C B Ds E G Fs As B D Cs F Fs FsoAs 
+-1|E Gs Fs E Ds A 
+1|G DoBoFs E BoD B GoCs E FsoD B BoFsoCs 
+-1|E Gs E Ds D D D D Cs Cs C 
+1|D FoCs 
+-1|C 
+1|DoFs B CsoA D CoGs CsoF AoFsoA Fs GsoB 
+-1|Cs Ds A Cs Cs 
+1|A Gs A 
+-1|C As As Gs G As Gs Ds Gs C 
+1|Gs A Gs 
+-1|Cs C Ds Gs As Ds E F As 
+1|A A Gs A GsoB A Gs A Cs 
+-1|C 
+1|Gs A Gs A 
+-1|Cs Ds A Cs Cs 
+1|A Gs A Gs 
+-1|Ds 
+1|F A Gs A FsoFs 
+-1|E 
+1|Gs 
+-1|F 
+1|BoB D FsoCsoA B AoFs Fs GsoFoD B AoFsoCs Fs FsoCoE 
+-1|As 
+1|BoDs A EoBoAoDs GsoE DoF E CsoEoB AsoE BoBoDoG Cs AoDoFs B GsoCsoF AsoFsoFs BoFsoBoD DoFsoB EoGoCs Cs D E Fs G B As D Cs CsoCsoD E AsoFs G FsoB As DoFsoB As B Cs DoGs E Fs F FsoCsoB F Fs Gs FsoFsoA B AoCs Fs BoD E DoBoFs A EoGs A GsoBoE D AoCs D CsoAoE Gs DoFs Gs FsoAoD Cs GsoB Cs BoGsoD Fs CsoF Fs FoGsoCs B FsoA B AoFsoCs 
+-1|Gs G Gs 
+1|BoD DoBoBoFs A EoG A GoBoE D AoCs D CsoAoE G DoFs G FsoAoD Cs GoB Cs BoGoD Fs CsoE Fs EoGoCs B FsoAs B AsoFsoCs E BoD 
+-1|C Ds 
+1|B Cs DoFsoGs E DoF Cs BoFsoD A GsoCs Fs GsoC B AoFoCs Gs FsoFsoA A DoFs Cs BoGs Gs GsoA B CsoCs D CsoFs F FsoFsoA G A B CoFs D E Ds G 
+-1|E F 
+1|CoE BoDs DsoFs EoG B Cs D E Fs B As B DoFs CsoF FoGs CsoFs AsoD E BoD E DoBoFs A EoG A GoBoE D AoCs D CsoAoE G DoFs G FsoAoD Cs GoB Cs BoGoD Fs CsoE Fs EoGoCs B FsoAs B AsoFsoCs E BoD E DoBoFsoB 
+-1|Ds 
+1|EoG EoGoEoB D AoC D CoEoA G DoFs G FsoDoA C GoB C BoDoG Fs CoE Fs EoCoG B FsoA B AoCoFs E BoDs E DsoBoFs A EoG 
+-1|Cs C As Gs G Cs G Gs 
+1|FoD A EoGs Fs BoEoCs G AsoFs As GoB Cs FsoD E FoD Cs FsoB As DoB A BoG Fs CsoE 
+-1|Cs C Cs F Ds Cs C C 
+1|D Cs D 
+-1|As A As Cs C As Gs G Gs 
+1|Cs 
+-1|Gs Gs 
+1|D D Cs D CsoE D Cs D Fs 
+-1|Ds Gs Ds CsoG Ds G Ds CoGs Ds Gs Ds GoAs Ds As Ds GsoGs Ds GoAs Ds FoC Gs FoD Gs DsoG As G As DsoG As G As CsoG As G As CsoG Ds G Ds CoGs Ds Gs Ds FoDs C Ds C AsoF Cs F Cs DsoCs Cs Cs Cs GsoCsoG Ds GsoCs Ds GsoCoGs 
+1|Cs D Cs D 
+-1|Ds Gs C Ds Gs GsoGsoC DsoDs GsoC DsoDs CsoGoAs DsoDs GoAs DsoDs CoGsoDs DsoGs GsoDs DsoGs GoGoDs DsoAs GoDs DsoAs GsoGsoDs DsoGs GoGsoDs DsoAs FoFoGs GsoC FoFoGs GsoD DsoG GoAs AsoG DsoAs GoG AsoAs GoG AsoAs CsoG GoAs AsoG CsoAs GoG AsoDs GoG CsoDs CoGs DsoDs CoGs DsoDs FoCoDs FoC CoDs FoC AsoCsoF FoCs CsoF FoCs DsoAsoCs DsoCs AsoCs DsoCs GsoCs DsoDs GoCs DsoDs GsoC 
+1|G Cs D Cs B 
+-1|C C C C C C C EoGoC EoGoC EoGoC EoGoC FoGsoC FoGsoC FoGsoC FoGsoC GoAsoE GoAsoE GoAsoE GoAsoE GsoCoF GsoCoF GsoCoF GsoCoF AsoFoGs AsoFoGs AsoFoGs AsoFoGs BoFoGs BoFoGs BoDoGs BoDoGs CoDsoG CoDsoG CoDsoG CoDsoG GsoDs GsoDs GsoDs GsoDs 
+1|As D Cs D BoD 
+-1|As G As G Ds AsoDsoF D DoF C CoF B BoF As DsoAsoDs 
+1|Cs 
+-1|As G As G Ds AsoFoGs 
+1|Fs Gs As B Cs Fs F AoCs Cs Ds F Fs Gs CsoDs C CsoGsoF B AoCs Gs FsoA Gs AoFsoFs Cs BoD GsoF AoCsoFs CsoA DoFsoGs B CsoF F FsoB E DoAsoFs Cs BoD Cs DoB Fs EoG CsoAs DoBoFs FsoD GoCsoB E FsoAs As BoE A GoBoDs Fs EoEoG D EoAs Cs DoB Fs Gs As B G Fs F Fs As CsoB Cs BoDoF E DoA Gs CoA E Fs Gs A B E Ds E Fs EoBoG A DoFsoB Cs BoBoD Fs GoE AsoCs FsoBoD DoFs BoCsoG E AsoFs As EoFsoB Fs DsoA G CoFsoA E BoDs Cs FsoBoGs D FoCs B DoAoFs Gs CsoA Fs CoGs F CsoFs F AoFs E FsoD Cs GsoB 
+-1|AsoFoGs DsoFoG E E Ds Ds D D Ds Ds E E Ds Ds D D Cs GsoGsoCoGs Ds Gs Ds CsoG Ds G Ds CoGs Ds Gs Ds GoAs Ds As Ds GsoGs Ds GoAs Ds FoC Gs FoD Gs DsoG As G As DsoG As G As CsoG As G As CsoG Ds G Ds CoGs Ds Gs Ds FoDs C Ds C AsoF Cs F Cs DsoCs Cs Cs Cs GsoCs Ds GsoCs Ds GsoC 
+1|A 
+-1|BoDs BoDs BoDs BoDs BoDs BoDs BoDs BoDs BoDs BoDs BoDs AsoCsoDs CsoDs CsoDs CsoDs AsoCsoDs AoCsoDs AsoCsoDs AsoCsoDs GsoCsoDs GoCsoDs FoCsoDs DsoCsoDs GsoBoDs BoDs BoDs BoDs BoDs BoDs BoDs BoDs BoDs BoDs BoDs BoDs DsoAsoDs AsoDs AsoDs AsoDs DsoAsoDs DoAsoDs DsoGoAsoDs EoGoAsoDs DsoGoAsoDs CsoGoAsoDs BoGoAsoDs AsoGoAsoDs GsoBoDsoGs BoDs BoDs BoDsoB 
+1|Gs A Gs 
+-1|BoDsoAs BoDsoGs AoBoDsoFsoFsoFs AoBoDsoFs AoBoDsoFs AoBoDsoFs AoBoDsoFs AoBoDsoFs GsoBoEoGsoBoB GsoBoEoGs GsoBoEoGs GsoBoEoGs GsoBoEoGs GsoBoEoGs CsoEoFsoAsoEoE CsoEoFsoAs CsoEoFsoAs CsoEoFsoAs EoFsoAs EoFsoAs BoEoGsoBoBoB BoEoGsoB BoEoGsoB BoBoFsoAoBoDs BoB BoB EoEoGsoBoE GsoB GsoB GsoB GsoB GsoB GsoB GsoB GsoB GsoB GsoB GsoB EoEoGsoB GsoB GsoB GsoB GsoB GsoB GsoB GsoB GsoB GsoB GsoB GsoB FsoAoB AoB AoB AoB FsoAoB FoAoB FsoAoB FsoAoB EoAoB DsoAoB CsoAoB BoAoB EoGsoB GsoB GsoB GsoB GsoB GsoB GsoB GsoB GsoB GsoB GsoB GsoB DoGsoB FoDoGsoB GsoDoGsoB BoDoGsoB DoDoGsoB FoDoGsoB GsoDoGsoB DoGsoB DoGsoB DoGsoB DoGsoB DoGsoB DoGsoB FoDoGsoB GsoDoGsoB BoDoGsoB DoDoGsoB FoDoGsoB GsoDoGsoB DoGsoB DoGsoB DoGsoB DoGsoB DoGsoB CsoGsoAs EoCsoGsoAs GsoCsoGsoAs AsoCsoGsoAs CsoGsoAs CsoGsoAs CsoGoAs DsoCsoGoAs GoGoAs AsoCsoDsoGoAsoCs CsoDsoGoAs CsoDsoGoAs GsoGsoCoC Ds Ds Gs Ds Ds CsoG Ds Ds G Ds Ds CoGs Ds Ds Gs Ds Ds GoAs Ds Ds As Ds Ds GsoGs Ds Ds GoAs Ds Ds FoC Gs Gs FoD Gs Gs DsoG As As G As As DsoG As As G As As CsoG As As G As As CsoG Ds Ds G Ds Ds CoGs Ds Ds Gs Ds Ds FoDs C C Ds C C AsoF Cs Cs F Cs Cs DsoG Cs Cs Cs Cs Cs GsoCsoG Ds Ds GsoCs Ds Ds GsoCoGs 
+1|GsoB A Gs A GsoAoCs A Gs A BoD 
+-1|C Ds Gs GsoGsoC DsoDs DsoDs GsoC DsoDs DsoDs CsoGoAs DsoDs DsoDs GoAs DsoDs DsoDs CoGsoDs DsoGs DsoGs GsoDs DsoGs DsoGs GoGoDs DsoAs DsoAs GoDs DsoAs DsoAs GsoGsoDs DsoGs DsoGs GoGsoDs DsoAs DsoAs FoFoGs GsoC GsoC FoFoGs GsoD GsoD DsoG GoAs AsoAs DsoG GoAs AsoAs DsoG As As G As As CsoG GoAs AsoAs CsoG GoAs AsoAs CsoG Ds Ds G Ds Ds CoGs Ds Ds Gs Ds Ds FoDs C C Ds C C AsoF Cs Cs F Cs Cs DsoAsoG DsoCs DsoCs DsoCs DsoCs DsoCs GsoC Ds Ds Ds Ds Ds Ds Ds Ds Ds Ds Ds DsoCsoDs DsoCsoDs DsoCsoDs DsoCsoDs DsoCsoDs DsoCsoDs DsoCsoDs DsoCsoDs DsoCsoDs DsoCsoDs DsoCsoDs DsoCsoDs GsoCoDs Ds Ds Ds Ds Ds Ds Ds Ds DsoDsoDs Ds Ds 
+1|F Gs A Gs Fs 
+-1|DsoCsoDsoFoF DsoCsoDs DsoCsoDs DsoCsoDs DsoCsoDsoDsoDs DsoCsoDsoCsoCs DsoCsoDsoCoC DsoCsoDsoAsoAs DsoCsoDsoGsoGs DsoCsoDsoGoG DsoCsoDsoCsoCs DsoCsoDsoGoG GsoCoDsoGsoGs 
+1|A Gs A Gs 
+-1|DsoG GsoGsoGs DsoCsoG GsoCoGs C 
+1|F A Gs A FsoFs 
+-1|DsoCsoAs A As Cs C As GsoCoGs 
+1|E DoAsoFs Cs BoD Cs DoB Fs EoG CsoAs DoBoFs FsoD GoCsoB E FsoAs As BoE A GoBoDs Fs EoG Fs GoEoE B AoC FsoDs GoBoE BoG CoEoFs A BoDs Ds EoAoE D EoGsoCs B CsoA B AoCs E FsoD B EoGsoCs E AoCsoFs D GsoBoE Gs DoEoA G CsoAoFs E DoFsoD Cs DoFsoB A BoDoG E AoFs A DoB G CsoGoA Cs GoAoD E FsoD E DsoCoFs G DoA Fs AoBoD F GsoE D FoAoC B EoC D DsoC B EoA Gs CsoA G AoFs E BoD Cs BoD CsoE DoFs G A Gs CsoE Fs AoG Fs BoD E GoFs E AoCs B DoFsoCs D CsoEoE Fs AoCsoG E FsoA G DoFs E GoD C FsoB C CoDoG E BoD C AoBoF Cs GsoD B DoGoE As CsoA G AsoFoD E AoF D GsoE Cs AoD Cs FsoD C DoB A EoG FsoE EoFs DoG CsoA BoB AoD GoCs DoFsoD A B Cs D E BoA Gs AoA E Fs G AoCs B FsoEoFs Ds EoBoG B AsoCs BoD CsoE Fs CsoEoB As BoBoD Fs GsoFs A BoFoCs Cs FsoGsoB F AoCs CsoF DsoFs FoGs FsoA GsoB AoD FoCs FsoDs Fs Gs A GsoGsoFoB Cs FsoGs F FsoA Gs CsoFs F AoFs Gs FsoA Cs DoB Gs CsoA Cs FsoBoGs D FoCs B BoCsoFs D AsoE D GoCsoE B FsoAs Gs CsoFsoDs A CoGs C AoCs Ds GsoE Fs GoE Ds GsoC A EoGsoCs B CsoA Gs DsoFs Ds E Fs Gs A Cs C GsoE Gs As C Cs Ds Fs E Fs CsoE DsoFs EoGs FsoA GsoB AoDs BoCs AoDs Fs BoGs A GsoB Cs EoDs E CsoFs Ds BoE Gs EoFs Cs DsoB A AoBoE Cs GsoD Cs FoBoD A EoGs Fs BoEoCs G AsoFs E GoDoB Cs FsoD B FoCs As FsoB As DoB A BoG Fs CsoE 
+-1|C C C C BoD CoDs 
+1|D Cs D 
+-1|DoF 
+1|Cs 
+-1|CoDs 
+1|D D Cs D CsoE D Cs D Fs 
+-1|As 
+1|Cs D Cs D 
+-1|As Ds D Ds F C C As 
+1|G Cs D Cs BoCs 
+-1|Ds F Fs F Fs Fs AsoF 
+1|As D Cs D BoD 
+-1|AsoF AsoDs CoDs AsoDs AsoD AsoF 
+1|Cs 
+-1|AsoG AsoG AsoD AsoDs GsoDs AsoDs AsoD AsoDs 
+1|Cs FsoB As DoB Cs BoD Cs GoCsoE D FsoDoFs E BoG E AsoD Cs EoB As DsoB Fs CoA Fs BoE Ds FsoCs C FoCs Gs DoB Gs CsoA Fs CoGs Fs CsoF 
+-1|G G G Ds As As As G Ds Ds Ds As 
+1|G As 
+-1|As As As As 
+1|C 
+-1|FoD FoD FoD GoDs 
+1|D E F 
+-1|DoG DoG DoF CoDs 
+1|G 
+-1|Gs Gs Gs F 
+1|E CoF 
+-1|C C C C BoD CoDs 
+1|F Gs 
+-1|DoF 
+1|G F E F G Gs G F Ds D Ds F D Ds F B 
+-1|CoDs AoFs 
+1|C B D F Gs G F B F D F B Gs G F E Cs As G C Gs F Gs G As G E Gs F D F E G E C F D B D C G C D E G As G Gs C F D F Gs C B C G F D AsoA Cs BoD Cs B D AoCs B A Cs GsoB A Gs B FsoFsoA Gs FsoFs A AoCs Gs FsoA A GsoC Fs EoGs Gs FsoGs E DsoFs Fs EoCs Ds CsoE E FsoA Gs AoFs A DoB Cs BoD D EoGs Fs GsoE Gs CsoA B AoCs Cs DoB CsoCs BoD DoFs CsoA BoB AoCs CsoFs BoGs AoA GsoB BoF AoFs Gs FsoA A DoB Cs FsoD B BoGs A GsoB B EoCs D GsoE Cs CsoA B AoCs Cs DoFs EoE FsoD AoFs CsoE DoD EoCs AoE BoD CsoCs DoB GsoD AoCs B AoA BoGs CsoA BoB AoCs CsoE BoGs AoA GsoB BoE AoFs GsoGs FsoA AoDs GsoE Fs EoGs Gs Cs E EoCs C AoCs Gs FsoA A Ds Fs FsoDs Cs GsoC Ds EoGs Cs FsoA Gs DsoFs A EoGs Fs CsoE Gs DsoFs E CoDs Fs CsoE Ds CsoCs E FoGs Fs GsoB F FsoA GsoGs AoFs FsoA DsoFs E FsoDs Ds GsoC As CsoGs E FsoA Gs CoFs Ds EoGs Fs CsoE Cs DsoFs E GsoDs C AoCs C FsoCs Fs GsoE 
+-1|As 
+1|Ds E 
+-1|As Ds D Ds F C C As 
+1|Ds E Ds 
+-1|AsoF AsoG 
+1|Gs E Ds 
+-1|AsoF AsoDs CoDs AsoDs AsoD AsoF 
+1|Cs 
+-1|AsoG AsoG AsoD AsoDs GsoDs AsoDs AsoD AsoDs 
+1|Gs FsoA Gs Fs A EoGs Fs E Gs DsoFs E Ds Fs CsoE E Fs Gs AoFs GsoGs FsoA AoCs GsoE FsoFs EoGs GsoCs FsoDs EoE DsoFs FsoC EoCs Ds CsoCs B AsoEoFsoCs B Cs As BoDoFsoD Cs D B CsoCsoEoAs D E Cs FsoBoFsoB A Gs Fs DoEoGs A B Gs CsoFsoA B Cs A BoGsoB Cs D B AoAoCs BoB CsoA AoGs DoFs E FsoD Cs GsoB AoA BoGs GsoFs CsoF D FoCs B FsoA FsoGs GsoFs AoE BoD CsoA DoGs BoFs CsoF Ds Cs B A GsoB FsoA FoGs FsoA GsoB AoCs FsoD DoFsoCs 
+-1|G G G Ds As As As G Ds Ds Ds As 
+1|B Cs B Cs D 
+-1|As As As As 
+1|B Cs 
+-1|FoD FoD FoD GoDs 
+1|Cs DoGsoBoF Cs B D CsoAoCsoFs B A Cs BoF 
+-1|A D D C As A As 
+1|Cs 
+-1|G A As C Fs A As C A As C D G As C D As C D AoDs 
+1|Gs 
+-1|AoDs GoE GoE GoE GoE GoE AsoD AsoD AsoD AsoD 
+1|Fs F Cs Fs FsoFs A B Cs BoD Cs B D AoCs B A Cs GsoB A Gs B FsoA A B Cs DoB CsoCs BoD DoFs CsoA BoB AoCs CsoFs BoGs AoA GsoB BoF AoFs D BoCs B CsoA Fs CsoGs F FsoAsoCsoB Cs DoB E FsoCs Gs AoAoFs B CsoGs B AsoCsoE Fs BoD A GoB FsoA EoG Cs DoCs EoB FsoAs FsoFs GsoEoB AsoCs BoFs Cs DoDoB E FsoCs Gs AoFsoA Fs BoG B CsoE A DoFs Cs BoD A GoB Fs EoGoE D CsoA A BoFsoD Fs GoE E AoCs A DoFsoD 
+-1|DoD DoD DoD 
+1|Cs EoB A FsoD G AoE B CsoAoCs D EoB Fs GoGoE A BoFs Cs DoBoD E FsoCs Gs AoAoFs B CsoGs B CsoCsoF A DoFs Cs DoBoGs B FoCs Cs DoAoFs A BoGs Gs CsoF Cs FsoAoFs E FsoD Gs AoE B CsoCsoA D EoB Fs GoEoG A BoFs Cs DoDoB E FsoCs E FsoFsoAs D GoB FsoB GoE EoA 
+-1|D D DoG BoD BoD CoE C C C F 
+1|G AsoFs FsoD Cs BoD EoBoG FsoBoD E FsoAsoCs Fs BoB G AoCs Fs GoD 
+-1|G 
+1|B 
+-1|B Cs Cs Cs Cs D D D D 
+1|G A GoAs A G AoB G A G A G 
+-1|D 
+1|E 
+-1|D D BoD 
+1|DoB CsoE BoD AsoCs 
+-1|GsoGs GsoGs GsoGs FoF 
+1|D Cs 
+-1|GsoGs GsoGs GsoGs FoF GsoGs GsoGs GsoGs FoF GsoGs GsoGs GsoGs FoF GsoGs GsoGs GsoGs FoF GoG GoG GoG DsoG 
+1|BoFs Cs DoB E FsoCs Gs AoAoFs B CsoGs B AsoCsoE Fs BoD A GoB FsoA EoG Cs DoCs EoB FsoAs FsoFs GsoEoB AsoCs BoFs Cs DoDoB E FsoCs Gs AoFsoA Fs BoG B CsoE A DoFs Cs BoD A GoB Fs EoGoE D CsoA A BoFsoD Fs GoE E AoCs A DoFsoD 
+-1|FoG FoG FoG DoG 
+1|G AsoFs FsoD Cs BoD EoBoG FsoBoD E FsoAsoCs Fs BoB G AoCs Fs GoD 
+-1|Ds 
+1|A G A G A 
+-1|FsoC 
+1|B 
+-1|GoB 
+1|E 
+-1|DoF 
+1|A G A Fs G FsoAs 
+-1|CoDs 
+1|DoB CsoE BoD AsoCs 
+-1|CoFs CoFs 
+1|FsoA GoCs AoFs FsoE BoDs AoFs GoB FsoA EoEoG G AoDsoFs B EoEoG FsoB GoE EoD AoCs GoE FsoA EoG DoDoFs Fs GoCsoE A DoDoFs EoA DoB CsoCs BoD AoFs GsoGs FsoA FoB FsoCs GsoFsoA AoE BoD CsoCs DoBoG BoFs CsoF FsoCs GsoAoFs AoE BoD CsoA DoGs BoFs CsoF DsoFs FoGsoCs CsoB FsoA GsoB AoFsoCs FsoE BoD A GsoB Fs FoCs Cs FsoA E DoB Cs DoGs BoFs CsoF BoFoD AoFsoCs BoGsoB CsoCsoA BoFs CsoGs CsoF FsoFs Cs DsoC E FsoCsoDs A GoBoE FsoAoFs EoGoB FsoDsoC GoEoB AoFsoA BoBoG AoE BoFs BoDs EoE B CsoAs D EoCs G FsoDoA EoEoG DoAoFs EoAsoCs FsoAoD GoGoE AoFsoA GoD AoE AoCs BoDoFs DoB FsoCs FsoA GoBoD BoG DoA Fs BoGs D CsoEoAs BoB AsoCs FsoG GsoFs AsoE BoD FsoB EoGoCs DoD CsoE AoB BoA CsoG DoFs AoD GoBoE FsoFs EoG CsoD DoCs EoB AsoCs FsoE GsoDoFs AsoCs BoD BoA CsoBoG DoFs EoG FsoD EoCsoGs DoB CsoE CsoB DoCsoA EoGs FsoA GoE FsoDoAs EoCs DoFs DoC EoDoB FsoAs GoB FsoE EoFs DsoA EoG D CsoE B AsoFs Fs BoD A GsoE Fs GsoCs As BoD B CsoB DoA EoG Fs GoCs EoB FsoAs EoAsoG DoBoFs EoCsoE FsoFsoD EoB FsoCs FsoAs GoB E Fs Ds EoG B D As CsoE BoG As AoFs GsoB GoE Fs BoDs EoG EoB D CsoAs BoD CoFs Cs DoF FoB FsoCoE 
+-1|G C B C D A A G 
+1|Ds GoBoE EoG FsoD E FsoAsoCs Fs BoAoDs GoE As FsoB G E Cs As DsoFsoB 
+-1|G C B C D A A G 
+1|FsoA GoCs AoFs FsoE BoDs AoFs GoB FsoA EoEoG G AoDsoFs B EoEoG FsoB GoE EoD AoCs GoE FsoA EoG DoDoFs Fs GoCsoE A DoDoFs EoA DoB CsoCs BoD AoFs GsoGs FsoA FoB FsoCs GsoFsoA AoE BoD CsoCs DoBoG BoFs CsoF FsoCs GsoAoFs AoE BoD CsoA DoGs BoFs CsoF DsoFs FoGsoCs CsoB FsoA GsoB AoFsoCs FsoE BoD A GsoB Fs FoCs Cs FsoA E DoB Cs DoGs BoFs CsoF BoFoD AoFsoCs BoGsoB CsoCsoA BoFs CsoGs CsoF FsoFs Cs DsoC E FsoCsoDs A GoBoE FsoAoFs EoGoB FsoDsoC GoEoB AoFsoA BoBoG AoE BoFs BoDs EoE B CsoAs D EoCs G FsoDoA EoEoG DoAoFs EoAsoCs FsoAoD GoGoE AoFsoA GoD AoE AoCs BoDoFs DoB FsoCs FsoA GoBoD BoG DoA Fs BoGs D CsoEoAs BoB AsoCs FsoG GsoFs AsoE BoD FsoB EoGoCs DoD CsoE AoB BoA CsoG DoFs AoD GoBoE FsoFs EoG CsoD DoCs EoB AsoCs FsoE GsoDoFs AsoCs BoD BoA CsoBoG DoFs EoG FsoD EoCsoGs DoB CsoE CsoB DoCsoA EoGs FsoA GoE FsoDoAs EoCs DoFs DoC EoDoB FsoAs GoB FsoE EoFs DsoA EoG D CsoE B AsoFs Fs BoD A GsoE Fs GsoCs As BoD B CsoB DoA EoG Fs GoCs EoB FsoAs EoAsoG DoBoFs EoCsoE FsoFsoD EoB FsoCs FsoAs GoB E Fs Ds EoG B D As CsoE BoG As AoFs GsoB GoE Fs BoDs EoG EoB D CsoAs BoD CoFs Cs DoF FoB FsoCoE 
+-1|As C As A C D C B 
+1|G GoDs F DsoG C FoF Ds D GoDs D GoC B GsoCoC Ds GoF G FoFoGs C DoB A GoDsoB G AoDoF BoG CoDsoDs D DsoC F GoAs Ds DoC C AsoD A AsoGoG 
+-1|FoG EoG 
+1|CoE A DoAsoFs CoA AsoAsoG G CoGsoC G AoCoF C BoGoDs D CoDs G FoA Ds AsoAsoD C GsoCsoE G AoF C DoAs Gs GoDs C FoAoD DsoC DoAsoD C CsoDsoG 
+-1|BoG CoG CoA EoG BoG 
+1|GsoDs C AsoG GsoF AsoG Ds BoD F GoCoDs C DoDoB 
+-1|Fs G Fs FoG 
+1|G Ds FoC GoB CoDsoC BoFoD CoDsoG D CoGoEoC FoAs Gs GoAs FoC E FoGs CsoGoAs GoEoC GsoF CoEoGoAs CoCoGs G GsoFoGs AsoEoG D CoE CoFoDsoA As 
+-1|EoG BoG CoG DoF EoG DoG C E E E C G G G E C C C G 
+1|C CsoAsoCsoF CoGsoDsoC G BoGsoFoD FoGoDsoC DoB DsoGoDsoC D CoDsoG D 
+-1|E E E C G G G E C C C G DoG DoG DoG EoG 
+1|Ds Fs D Ds B C A Fs D Ds B C Fs G 
+-1|DoG DoG DoG EoG DoB DoB DoB EoC CoC CoC CoC CoC CoC CoC CoC CoC CoC CoC CoC CoC CoC CoC CoC CoC 
+1|Ds G Ds As Gs G C As Gs Gs G Gs C F As Gs G G F G As DsoAs Ds D Ds G CoDs D Ds F Ds AsoD G As F Ds Ds D AoDs GoG AoC F As 
+-1|GsoCs CoDs CoDs CoDs CoDs CoDs 
+1|A G AoDs AsoD AsoD C AsoD GsoF GoAs GoAs Gs GoAs FoD DsoGoDs FoGs GoAs GsoC As C DoAs GoF F GoAs AsoDoGs DsoDsoG GsoC G Gs CoAs FoGs Gs G DoGs GoCoC Gs AsoDoF As Ds 
+-1|C C C Ds BoF BoF Ds 
+1|D C DoGs DsoDsoG AsoG GsoF AsoG DoAs CoDs GsoF GoDs GsoF FoGs AsoDoAs GoDs F AsoD GoCoDs G AoFoC Ds AsoD DoAsoG 
+-1|F D Ds C D As C Gs As G Gs F G G G G G G C C C C BoF CoF BoF CoF DoF CoDs 
+1|CoA AsoG FoCoAoDs AsoDoAsoD FoD C AsoD AoCoFoF GoDoGoAs DoAs A GoAs FoGsoDoD DsoAsoDsoG CoFoA CsoGoAs E FoCoF As CoA Ds AsoAsoDoAs FoD 
+-1|DoG DsoG DsoGs DoGs DoGs DoG DoG C D 
+1|GoDs AsoGsoF D DsoAs GoDs GsoF DsoAsoG DsoGoDs AsoDoFoF GoAsoDs D GsoC GsoFoAsoD GoAsoDsoDs CoDs D Ds AsoG GsoC GsoF G Gs CoDs FoD AsoD C D GsoF GoAs GoAs FoGs GoAs AsoD DsoGoAs Ds D DsoG G CoDs G F CoG AoDs AsoAsoDoAs AsoDoG GsoC AsoD DoFoFoGs DsoGoDsoG GoDsoC FoD GoDs EoGoAs FoCoGs FoCoFoGs EoG FoFoGs AoDsoC AsoFoDoF FoDoAs DsoC FoD DoFoGs DsoAsoG DsoAsoAsoG GsoF DsoAsoG D CoDoAs As CoGoDs CoAoDs BoD CoCoDs As GsoBoG G GsoC GsoD Ds GsoF B GoC FoD GoB G CoDs D Ds F D F GoG Gs GoAs F EoF D CoE 
+-1|Ds F D 
+1|C GsoF G Gs As G As CoC D CoDs As AoAs G FoA 
+-1|FoF GoG GsoGs FoF AoC BoD CoDs GoC AoC BoD CoDs AsoD GsoC GoAs FoGs DsoG 
+1|As GoDs F G Gs F Gs AsoAs C AsoCs Gs GoGs F GoDsoAs 
+-1|CoG DoG 
+1|GsoGsoC DoAs EoCsoG FoCoGs FoF G Gs Ds CsoDs C AsoCs CsoF C CsoAs As CoFoGs Cs DsoAsoG DsoG F G Ds FoCsoAs G GsoCoDs As CoCoGs CsoAs DsoC 
+-1|Gs G FoGs DsoG DsoG DoG C 
+1|DsoG DsoGsoFoAs GsoF GoDs DoGsoF AsoG GsoF DsoGoDsoDs AsoG GsoF AsoG CoAoDs G AsoDoFoD DoAsoG CoGs DoAs GsoFoDoF GoAsoDs CoGoCoDs D DsoGoDs AsoG GsoGsoC GsoCoGsoF GoAs GsoC CoDsoGoDs FoFoGsoD AsoDoFoD C GoAsoD GsoDoF GoDsoAs GoDs F GoCs AsoFoGs DsoDsoG DsoC D DsoAs GoDoF CoCoDs DoGs DsoG FoGs GsoD C AsoFoD As AoDsoFs C AsoFoF F Ds FoD As DsoGoAsoC G CoF G FoGs F CoDs F DsoG Ds CoD Ds DoF D BoC D CoDs G FoC G GsoF F DsoC F GoDs Ds DoC Ds FoD D CoB D DsoC Ds CoG C FoD C DoB A GoD G FoB D GoDs D DsoC B GsoDs Gs GoC Ds AoF Ds FoD C AsoF As AoD F BoG F GoDs D CoDs GsoC GoAs GsoC AsoD GoAs FoGs GoAs GsoC As Gs G F Ds D C AsoD GoAs FoGs GoAs GsoC FoGs DsoG FoGs GoAs Gs G F Ds Cs C As GsoC FoGs DsoG FoGs GoAs DsoG DoF DsoG FoGs DoF CoDs DoF DsoGs 
+-1|DoG 
+1|C AsoGs C DoGs AsoG GsoF AsoG CoGs G Gs 
+-1|GoG GoG GoG GoG GoG GoG GoG GoG GoG GoG GoG DsoG 
+1|Gs GoGs Gs AsoGs D AsoF Ds D C DoAs Gs DsoG As CoDs G GsoF Ds AsoF D DsoDs As DsoGs As GsoC Gs DsoG Gs GoAs G DsoF G FoGs F DoDs F DsoG GoDs FoD GoDs GsoC F DsoGs F GoAs Ds DoG Ds FoGs D CoF D DsoG As GoDs G Gs F AsoDs D CoDs G GsoC F AsoGoAs Ds AsoFoGs D AsoDsoG Ds As G Ds 
+-1|FoG FoG FoG DoG 
+1|C G CoF G FoGs F CoDs F DsoG Ds CoD Ds DoF D BoC D CoDs G FoC G GsoF F DsoC F GoDs Ds DoC Ds FoD D CoB D DsoC Ds CoG C FoD C DoB A GoD G FoB D GoDs D DsoC B GsoDs Gs GoC Ds AoF Ds FoD C AsoF As AoD F BoG F GoDs D CoDs GsoC GoAs GsoC AsoD GoAs FoGs GoAs GsoC As Gs G F Ds D C AsoD GoAs FoGs GoAs GsoC FoGs DsoG FoGs GoAs Gs G F Ds Cs C As GsoC FoGs DsoG FoGs GoAs DsoG DoF DsoG FoGs DoF CoDs DoF DsoGs 
+-1|BoD BoD BoD CoDs 
+1|C AsoGs C DoGs AsoG GsoF AsoG CoGs G Gs 
+-1|DoG DsoG DoG DsoG DoG DsoG DoG DsoG 
+1|Gs GoGs Gs AsoGs D AsoF Ds D C DoAs Gs DsoG As CoDs G GsoF Ds AsoF D DsoDs As DsoGs As GsoC Gs DsoG Gs GoAs G DsoF G FoGs F DoDs F DsoG GoDs FoD GoDs GsoC F DsoGs F GoAs Ds DoG Ds FoGs D CoF D DsoG As GoDs G Gs F AsoDs D CoDs G GsoC F AsoGoAs Ds AsoFoGs D AsoDsoG Ds As G Ds 
+-1|GoB GoC 
+1|Ds As FoA As GoDs As DsoA As DoF As CoA As DoGs As AsoA As DsoG G GsoDs G GsoC 
+-1|DoG 
+1|G F CoE CsoF C GoAs As CoG As CoE F E AsoD CoE As FoGs C GsoB C FoCs C CsoB C EoG C GoB C DsoCs C CoB C DoF C FoD E CsoF As AsoA As CoG F DoE D EoC As CoGs G FoGs GsoF GoE GsoF DsoC CoGs AsoG CoGs CsoF Ds FoCs C GsoAs Gs CsoG F DsoG GoDs FoD GoDs CsoAs AsoG GsoF AsoG CoDs Cs DsoC As GsoGs G CoF E CsoF F DsoA F FsoAs F DsoC F AsoCs F GoE Gs GoF F EoG F GsoC E FoF Gs CoAs G CoF E FoGs C GsoE F AsoG Cs CoC As FoGs G GoF E GsoF Gs FoC Ds AsoD Gs AsoF D As Gs G F DsoG F FoDs D GoDs G DsoB D GsoC G GsoDs C Gs G F Ds DoF Ds DsoD C FoD F DoGs C GoB F GoD B DoG FoB DsoC DoD CoDs D DsoG C GsoC GoAs FoGs DsoG DoF DsoG FoGs DoF AsoD GsoC GoAs FoGs DsoG Gs DoAs G DsoC Cs EoC As FoGs As EoC Gs FoD Ds FsoD C GoB FoG DsoC FoD GoDs G GoBoD F CoDsoGoC C Ds G C 
+-1|Gs Gs Gs F 
+1|Ds As FoA As GoDs As DsoA As DoF As CoA As DoGs As AsoA As DsoG G GsoDs G GsoC 
+-1|F F F Ds 
+1|D C GoB GsoC G DoF G GsoD G GoB C B GoA GsoB G CoDs Ds CoD Ds AsoG Ds GsoD Ds GoAs Ds FoD Ds GoCs Ds DsoD Ds GsoC C CsoGs C CsoF 
+-1|DsoG 
+1|D CoA D DsoG FoA F Ds F C A F A Ds AsoD As F DsoG Ds D FoC As A DoAs As A As F D As As A As AsoD AoC AsoD DoF AsoCoDs AsoDoF FoGs AsoGsoD AsoGoDs AsoG GsoF AsoG GoAs AsoFoGs AsoGoAs AsoDs AsoDoG AsoCoA DsoC DoAs DsoC CoDs AsoD CoDs AsoC AsoFoAoDs AsoFoAsoD DoAs CoA DoAs FoD DsoC FoD GsoF GoDs GsoDoF As A As F D As DsoG DoF DsoG As Gs As G Ds As FoD GoDs GsoF As A As D CoGsoF DoGsoB F DsoFoGsoC FoDoGsoB Gs G Gs B D BoF Ds D CoDs G C CoDs D C As Ds C GsoF Gs C GsoDs D C Ds G C FoGs B C FsoDs D C G F B CoC G Ds C Ds G As A G A Ds D Ds C A F C F As F Ds F As C Cs Gs F G Cs C Cs As G Ds As Ds Gs Ds Cs Ds Gs As C G Ds F D Gs C As Gs G Cs As E C G As Gs G F C Gs D As Gs Ds Gs G A C Ds As D C D DoAs CoA DoAs FoD GsoF AsoGs DoF CoDs DoF FoD DsoC FoD DoF AsoGs C Ds FoD GoAs Cs DsoC FoGs B DoAs Ds G F G GoDs FoD GoDs AsoG CsoAs DsoCs GoAs FoGs GoAs AsoG GsoF AsoG GoAs DsoCs F Gs AsoG CoDs Fs GsoF AsoCs E GoDs Gs C As C CoGs AsoG CoGs C Ds G As CoA DoF Gs AsoG CoDs Fs AoF As D C D DoAs CoA DoAs D F Gs C DoB DsoG As CoA DoF Gs BoG C Ds D Ds DsoC DoB DsoC Ds G C Gs GoB GsoC DsoG CoGs G DoFs AsoG FsoC C AoFs DsoG AsoD GoDs D AoCs FsoD GoAs G D CoDs G C CsoAs A G DoFs 
+-1|EoG FoGs GoAs FoGs FoGs DsoG 
+1|G A D Ds D DoC EoAs C FsoA GoAs D G GoAs A G F As G DsoC Ds G DsoAs A G As D G CoDs Fs G CsoAs A G D C Fs GoG As D G As D FoAs 
+-1|FoG 
+1|Gs As 
+-1|DsoG 
+1|A GoDs A AsoD C As Gs G F AsoG Ds D Ds As Gs G F Ds AsoD F Ds F D As Gs G F AsoDs G F G Ds C As Gs G AsoDoF Gs G Gs F D C As Gs GoDsoGoAs As Gs As G Ds As G Ds FoDs As A AsoD F D As F G Gs C GoDs FoD F DsoAs DoAs F AsoGs DsoG As FoCs DsoC Ds CsoGs CoGs Ds GsoG DoF Gs DsoC DoAs D CoG AsoG D GoF CoDs G DoAs CoGs C AsoF GsoF C GoDs GsoFoAsoD 
+-1|AsoF 
+1|DoAsoFoGs DsoAsoDsoG F 
+-1|C As A 
+1|G Gs As C D Ds GsoGsoCoF AsoGoAsoDs 
+-1|A A A FoGs 
+1|Ds D 
+-1|Gs DsoAs DsoC DsoG DoF FoGs 
+1|Ds DsoDs As Gs As G F G Ds D Ds As Gs As G F G Ds D Ds 
+-1|DsoG DsoG DoF DsoG DsoF DsoG DoF DsoG 
+1|Ds F FoGs CoFoGs EoG C GoAs FoGoAs FoGs F CoGs AsoCoGs AsoG B GsoF CoGsoF GoE E 
+-1|G G G Ds As As As G Ds Ds Ds As 
+1|FoGs CoFoGs EoG C GoAs FoGoAs FoGs F GsoC AsoGsoC AsoCs Ds GoAs GsoGoAs GsoC Gs CoDs AsoCoDs AsoCs As AsoCs CoAsoCs GsoC C DsoFs CsoDsoFs CsoF D CoGs DsoCoGs AsoG G 
+-1|DoF DoF DoF DsoG 
+1|As Ds As Gs C Ds C F Gs Ds Gs G As Ds As As Cs Ds Cs Gs C Ds C F D Ds D G Ds Ds Ds CoFs Gs GsoC Ds CsoDs C FoGs F AsoF G GoAs Cs CoCs As DsoG Ds GsoDs F FoGs C AsoC Gs CsoF Cs GoCs Ds DsoG As GsoAs G CoDs C Ds Gs FsoC Gs F Gs GsoCs Gs Fs Gs DsoC Gs Cs Gs EoAs Gs Ds Gs BoGs Gs DoAs Gs AsoE Gs DsoDs G DsoCs G GsoCsoG 
+-1|FoAs FoAs FoAs DsoG 
+1|CoGs F FoGs CoFoGs EoG C GoAs FoGoAs FoGs F CoGs AsoCoGs AsoG B GsoF CoGsoF GoE E 
+-1|DoG DoG DoF CoDs 
+1|FoGs CoFoGs EoG C GoAs FoGoAs FoGs F GsoC AsoGsoC AsoCs Ds GoAs GsoGoAs GsoC Gs CoDs AsoCoDs AsoCs As AsoCs CoAsoCs GsoC C DsoFs CsoDsoFs CsoF D CoGs DsoCoGs AsoG G 
+-1|Gs Gs Gs F 
+1|As Ds As Gs C Ds C F Gs Ds Gs G As Ds As As Cs Ds Cs Gs C Ds C F D Ds D G Ds Ds Ds CoFs Gs GsoC Ds CsoDs C FoGs F AsoF G GoAs Cs CoCs As DsoG Ds GsoDs F FoGs C AsoC Gs CsoF Cs GoCs Ds DsoG As GsoAs G CoDs C Ds Gs FsoC Gs F Gs GsoCs Gs Fs Gs DsoC Gs Cs Gs EoAs Gs Ds Gs BoGs Gs DoAs Gs AsoE Gs DsoDs G DsoCs G GsoCsoG 
+-1|F F F Ds 
+1|CoGs Gs GsoC DsoGsoC GoAs Ds AsoCs GsoAsoCs GsoC A FsoDs AsoFsoDs FoD D GsoF DsoGsoF GoDs Fs 
+-1|DsoG 
+1|CsoAs F Cs CoDs 
+-1|EoG FoGs GoAs FoGs FoGs DsoG 
+1|F Ds Cs AsoCs Cs GsoF Cs GoAs Cs FoCs CsoF DsoGs G AsoG Cs Ds C AsoCs 
+-1|FoG 
+1|Ds Cs C GsoC C FsoDs C FoGs C DsoC CoDs CsoFs F GsoF C DoGs F GsoF As DsoGs 
+-1|DsoG 
+1|F FoGs AsoFoGs EoG Cs EoG Gs GoEoAs Cs C Gs FoC CsoAs Gs AsoG F CoGs G CoAsoF E CsoGsoE F G F CsoE F CsoAs F CoE F CoGs F AsoE F AsoCs F GsoE CoF FoC GoF AoDs F FoA C AsoC A GsoF Cs GoCs Ds DsoG As GsoAs G GoDs C FoC Cs CsoF Gs GoGs F FoCs As EoAs C CoE G FoG E GsoC Gs C F DsoC F Cs G FoAs G Ds A CoFs A As As CsoF As C Gs CoF Gs BoDoF 
+-1|AsoF 
+1|FoGs C G AsoF 
+-1|C As A 
+1|G F E FoAsoE GsoF Gs GsoC DsoGsoC GoAs Ds AsoCs GsoAsoCs GsoC A FsoDs AsoFsoDs FoD D GsoF DsoGsoF GoDs Fs 
+-1|A A A FoGs 
+1|CsoAs F Cs CoDs 
+-1|Gs DsoAs DsoC DsoG DoF FoGs 
+1|F Ds Cs AsoCs Cs GsoF Cs GoAs Cs FoCs CsoF DsoGs G AsoG Cs Ds C AsoCs 
+-1|DsoG DsoG DoF DsoG DsoF DsoG DoF DsoG 
+1|Ds Cs C GsoC C FsoDs C FoGs C DsoC CoDs CsoFs F GsoF C DoGs F GsoF As DsoGs 
+-1|G G G Ds As As As G Ds Ds Ds As 
+1|F FoGs AsoFoGs EoG Cs EoG Gs GoEoAs Cs C Gs FoC CsoAs Gs AsoG F CoGs G CoAsoF E CsoGsoE F G F CsoE F CsoAs F CoE F CoGs F AsoE F AsoCs F GsoE CoF FoC GoF AoDs F FoA C AsoC A GsoF Cs GoCs Ds DsoG As GsoAs G GoDs C FoC Cs CsoF Gs GoGs F FoCs As EoAs C CoE G FoG E GsoC Gs C F DsoC F Cs G FoAs G Ds A CoFs A As As CsoF As C Gs CoF Gs BoDoF 
+-1|DoF DoF DoF DsoG 
+1|FoGs C G AsoF 
+-1|FoAs FoAs FoAs DsoG 
+1|G F E FoAsoE GsoF FoA F E F C F E F FoA F E F C F E F EoG E D E C E D E EoG E D E C E D E 
+-1|Fs Fs A G 
+1|As G As C E G E C A F A As D F D As G E G As Cs E Cs As 
+-1|CoFs CoFs GoG DoG 
+1|Cs A Cs E G As G E 
+-1|G A As FsoA FsoA GoAs GoAs GoAs GoAs GoAs GoAs GoAs GoAs GoAs 
+1|D A D F A D A F Cs A Cs E G As G E D A D F A D A F E Cs E G As Cs As G F D F A D F D A E Cs E G As Cs As G F D F A D F D A G E G As Cs E Cs As 
+-1|GoAs GoAs GoAs 
+1|GoG AoA 
+-1|Fs Fs Fs FsoA FsoA GoB F F F 
+1|GoG FoF EoE DoD CsoCs 
+-1|CoC CoC CoC F 
+1|DoD 
+-1|G 
+1|A G A 
+-1|A 
+1|Cs E 
+-1|A A A A A 
+1|D 
+-1|DoD 
+1|D 
+-1|CoC AoA Gs Gs Gs Gs 
+1|E Cs D E Cs D E Cs D 
+-1|Gs Gs Gs F 
+1|E F G E F G E F G E F 
+-1|Gs Gs Gs F Gs Gs Gs F Gs Gs Gs F Gs Gs Gs FoF GoG GoG GoG DsoG 
+1|Cs 
+-1|C 
+1|D E Cs D E Cs D E Cs D 
+-1|D Ds 
+1|E F G E F G E F G E F 
+-1|D C B 
+1|A 
+-1|F Ds D Ds 
+1|G As E G As E F A D F A D E G C E G C D F As D F As C E A C E A As D G As D G A C F A C F G As E G As E F A D F A D E G Cs E G Cs 
+-1|D C D F Ds D 
+1|Cs 
+-1|DoF 
+1|A G F E D Cs B Cs 
+-1|B C FoGs 
+1|A Cs E G G 
+-1|DsoG 
+1|F G F G F G F G F G F G 
+-1|DsoG DsoG DsoG 
+1|DoF 
+-1|FoG 
+1|A D E F D E F G E F G A F G A As G A F G E F D E Cs D A As G A F G E F D E Cs F D E Cs D A As G A F G E F D G E F D E Cs D 
+-1|DsoG 
+1|D 
+-1|FsoA FsoA 
+1|FoAs 
+-1|CoE DoF BoF CoE 
+1|EoA DoG CsoEoA D F As F C E A E As D G D A Cs E A D 
+-1|CoE DoF BoF CoE 
+1|FoAs 
+-1|GoB 
+1|G F E D Cs B Cs 
+-1|GoC FoG CoG DoC EoC DoB FoD 
+1|E F G A G F E F D F A Cs D 
+-1|EoC EoC DoB EoC DoC EoC DoB EoC 
+1|A B Cs D E F G A As D FoAs A EoA As DoG EoCsoEoA 
+-1|E E E C G G G E C C C G 
+1|FoAs A EoA As DoG EoCsoEoA 
+-1|BoD BoD BoD CoE DoG DoG DoG EoG CoC CoC CoC CoC CoC CoC CoC CoC CoC CoC CoC CoC CoC CoC CoC CoC 
+1|BoDoFoBoD EoAoCs 
+-1|CsoCs 
+1|B A Cs E 
+-1|Gs 
+1|A G F E F E D Cs D C As A G F E D AsoCsoE 
+-1|DsoA DsoA DsoA DsoA DsoA 
+1|E 
+-1|C C C Ds 
+1|Cs As Cs As Cs E Cs As Cs As Cs E Cs As Cs As Cs E Cs As Cs As G As G E G E G As G E G E G As G E G E G As G E G E Cs E Cs As Cs As Cs E Cs As Cs As Cs E Cs As Cs As Cs E Cs As Cs As Cs E Cs E G E Cs E Cs E G E Cs E Cs E G E Cs E Cs E G E G As G As G As G As G As G As Cs As Cs E Cs E Cs E Cs E Cs E CsoEoAoCsoEoA 
+-1|FoB FoB CoC 
+1|CsoEoAoCsoEoG 
+-1|CoF CoG CoGs 
+1|EoAoCs 
+-1|F BoF DoG DsoG DsoC GsoC GsoC GoC GoB CoC CoC 
+1|DoFoAoD 
+-1|CoC CoC 
+1|D C D As D A D G D Fs D G D A D As D D D E D Fs D G D Fs D G D A D As 
+-1|GsoC GoAs FoGs DsoG 
+1|D As D Ds G Ds G C A C A D F D F As G As G Cs E Cs E A F A F G Cs G Cs F D F D E As E As 
+-1|FoGs DsoG FoC DsoC DsoC DoB 
+1|A 
+-1|FoGs DsoG FoC DsoC DsoC DoB DsoC 
+1|D E Cs DoC A As G A 
+-1|DoB DoB DoB DsoC FoD DoB DsoC FoD DsoC 
+1|FsoA FoG DsoG Fs DoA Fs CoDs D As 
+-1|G G G G G G G G G G G DsoG 
+1|A As AsoG A Fs DoG C As AoD AsoD FsoD GoD FsoD GoD AoD AsoD AoD AsoD FsoD GoD 
+-1|FoG FoG FoG DoG 
+1|C 
+-1|G 
+1|As A G A As C E F G A G A As C 
+-1|Gs G DoG DoG DoG DsoG 
+1|As A G F Ds D C AsoD C As A G F E D CoE D C As A G F E DoF E D C As A G F EoG F E D C As A G FoA F E F C F E F FoA F E F C F E F EoG E D E C E D E EoG E D E C E D E 
+-1|DoB DoB DoB DsoC DoB DoB DoB DsoC 
+1|As G As C E G E C A F A C D F D As G E G As Cs E Cs As A A CsoG A DoF A GoE A FoD A AoCs A BoD A CsoE A DoF A AoCs A BoD A CsoE A DoF A CsoE A DoF A GoCsoE A D Fs EoAoC Fs GoAs 
+-1|DoB DsoC 
+1|FsoA GoAs A G F E D Cs B 
+-1|G 
+1|D F D A 
+-1|G G Ds 
+1|Cs E Cs As D F D 
+-1|GoB BoD DoG DsoG 
+1|D As 
+-1|CoFs BoD 
+1|F E D A 
+-1|Gs Gs Gs F 
+1|D C As A G Fs 
+-1|FoGs 
+1|A 
+-1|EoG FoGs GoAs FoGs DoF DsoG 
+1|G C B Ds D Ds B C B C D Ds D Ds F A 
+-1|DoF 
+1|F G Ds F D Ds C F Ds F D Ds C D As Ds D Ds C D As C A D C D As C A As G As A As C As A G Fs 
+-1|FsoDs FsoDs 
+1|A D G C Fs As G D A As G A Fs G D Fs D G D A D As G D A As G C A D C As A As A As G A As C D Ds D C D As C A As G 
+-1|As 
+1|B C Ds F G Gs G F G Ds F D Ds C 
+-1|As Ds D Ds F C C As 
+1|A G Fs F Ds D 
+-1|AsoDs 
+1|As A As A G Fs Ds D C As A G Fs G 
+-1|AoDs 
+1|F Ds F D Ds Cs As A G AoD 
+-1|AoDs AoDs AoDs GsoAs 
+1|EoCs FoD GoE AoF G AoD F GoE A G A AsoCs A G A FoAoD GoAs EoG FoA DoF 
+-1|GsoAs GoAs FoC GoAs FoAs 
+1|AoF GoG AoD GoCs FoD GoE FoD EoCs AoD AsoE AoD GoCs FoD GoE EoG DoF AoD GoAs GoE AoD FoD EoCs 
+-1|AoA AsoAs AoA AsoAs AoA AsoAs AoA AsoAs CoC AsoAs GsoGs GoG 
+1|A G A FoD A EoE A DoF A CsoE A DoF A EoCs A FoD A AoCs A BoD A CsoE A DoF A CsoE A DoF A EoG A FoA As EoG A DoF G GoE F FoD A EoCs A FoD A CsoE A DoF A CsoE A DoF A BoG A CsoA A GoE A FoF A DoG A CsoA 
+-1|GoG 
+1|F E F G A As A G A F 
+-1|G G G Ds AsoAs AsoAs AsoAs GoG DsoDs DsoDs DsoDs AsoAs 
+1|E D E F Ds D C As A G A As C A 
+-1|FoD FoD FoD GoDs 
+1|C 
+-1|DoF DoF DoF GoDs 
+1|Ds F D Ds C As A G A 
+-1|F F F D 
+1|C Ds C As 
+-1|GoB BoD DoG DsoG 
+1|C Ds C As G As G D G As G D Fs A Fs Ds Fs A Fs Ds D 
+-1|CoFs BoD 
+1|FsoC GoAs GoC BoD CoDs CoF EoG FoA AsoF AoDs AsoD 
+-1|D D D C 
+1|Ds D C As C As A G C As A G A G Fs G F E D Cs 
+-1|FoGs 
+1|E F G A B Cs D E F G F E D Cs D E F G A Cs D E F E F D E AoD AsoD AoCs AoD DoF DoE C FoAsoD 
+-1|EoG FoGs GoAs FoGs DoF DsoG 
+1|G A As A As C D C D Ds F F G A As A As C D A G F Ds G A As C G F Ds D F G A As 
+-1|CoDs 
+1|C D Ds F 
+-1|FsoDs FsoDs 
+1|As C D Ds C D E Fs Ds D C As Fs G A As C D G EoGoAsoE 
+-1|As 
+1|DoFoB 
+-1|CoDs 
+1|EoGsoBoD 
+-1|AsoDs 
+1|EoAoC 
+-1|AoDs 
+1|F E G F G E E D E C A G A F F E F D B A B G G F G E C B C A D C D B E D E C F E F D G F G E C B C A D C D B Gs Fs Gs E C B C A F E F D B A B C A G A B Gs Fs Gs E 
+-1|FoAs GoAs 
+1|D C B 
+-1|GsoAs GoAs FoC GoAs FoAs 
+1|E D C F E D G F E D A G F E G A B C 
+-1|AoA AsoAs AoA AsoAs AoA AsoAs AoA AsoAs CoC AsoAs GsoGs GoG 
+1|G B DoGoB EoGoC G C E G C EoGoC CoFoA 
+-1|FoD GoDs FoGs DsoG FoD GoDs G G G Ds AsoAs AsoAs AsoAs GoG DsoDs DsoDs DsoDs AsoAs 
+1|F A CoFoA DoFoAs F As DoFoAs GoAs Cs As CsoEoGoAs DoFsoA Fs A DoFsoA AsoD 
+-1|G G G Ds AsoAs AsoAs AsoAs GoG DsoDs DsoDs DsoDs AsoAs 

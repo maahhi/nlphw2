@@ -1,0 +1,2 @@
+vw -d vwtrain.txt -f svm.vw --loss_function hinge --l2 0.1 --ngram 2
+vw -d vwtest.txt -t -i svm.vw -p predictor.txt

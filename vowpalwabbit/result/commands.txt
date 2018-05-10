@@ -1,0 +1,2 @@
+vw -d vwtrain.txt -c --passes 10 -f predictor.vw 
+vw -d vwtest.txt -t -i predictor.vw -p predictor.txt
